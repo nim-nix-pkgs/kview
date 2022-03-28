@@ -11,7 +11,6 @@
   inputs.src-kview-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-kview-v0_1_0.owner = "planety";
   inputs.src-kview-v0_1_0.repo  = "kview";
-  inputs.src-kview-v0_1_0.dir   = "";
   inputs.src-kview-v0_1_0.type  = "github";
   
   inputs."karax".owner = "nim-nix-pkgs";

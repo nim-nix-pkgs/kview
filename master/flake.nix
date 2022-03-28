@@ -11,7 +11,6 @@
   inputs.src-kview-master.ref   = "refs/heads/master";
   inputs.src-kview-master.owner = "planety";
   inputs.src-kview-master.repo  = "kview";
-  inputs.src-kview-master.dir   = "";
   inputs.src-kview-master.type  = "github";
   
   inputs."karax".owner = "nim-nix-pkgs";
